@@ -26,6 +26,7 @@ p,headint{
     margin: 1rem;
         width:60vh;
         font-size:1.5rem;
+        height: 5vh;
     }
 .inp2{
     border-radius: 0.2rem;
@@ -35,9 +36,15 @@ p,headint{
         cursor: pointer;
         padding: 0.6rem;
         background-color: #C8ACD6;
+        border-radius: 20vh;
 }
 #finalsum{
     font-weight: 200;
     font-size: 5rem;
     text-align: center;
+    
+}
+.inp2:hover{
+    font-weight: bold;
+    
 }
